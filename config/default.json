@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey" : "test",
+    "db" : "mongodb://localhost/UNIWORKS"
+}
