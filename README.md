@@ -21,6 +21,7 @@ PROJECT START STEPS:
     2. Go to http://localhost:3000 in your browser to view it.
 
 API END POINTS:
+
     1.    /api/user/create - Post request to create an user
     2.    /api/login- Post request to obtain the JWT token 
    
